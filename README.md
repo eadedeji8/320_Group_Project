@@ -9,8 +9,6 @@ This repository contains a data science tutorial analyzing the **NYC Motor Vehic
 
 We will walk through the full data science pipeline — from data acquisition and preprocessing to exploratory analysis, hypothesis testing, and machine learning — to uncover patterns in crash severity, contributing factors, and borough-level trends across New York City.
 
-> **Status:** Project just started. Currently in Checkpoint 1 — dataset selected, repository initialized.
-
 ---
 
 ## Dataset
