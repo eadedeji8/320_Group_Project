@@ -35,14 +35,3 @@ The CSV is gitignored because of size — see the notebook for the loader call.
 | `README.md` | This file. |
 
 ---
-
-## Publishing
-
-This tutorial is intended to be served via GitHub Pages. The publishing checklist is in the chat output that produced the merged notebook; the short version:
-
-1. Create a `<username>.github.io` GitHub repo (or use an existing one).
-2. Run the notebook end-to-end once locally so cell outputs and PNGs are populated.
-3. Regenerate `crashes.html` via `jupyter nbconvert --to html crashes.ipynb`.
-4. Push `crashes.ipynb`, `crashes.html`, the four `*.png` files, and `README.md`.
-5. Enable Pages from the `main` branch root in repo settings.
-6. Replace the `Live tutorial` URL above with the actual Pages URL.
