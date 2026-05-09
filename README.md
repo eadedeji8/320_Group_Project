@@ -3,7 +3,7 @@
 
 **Authors:** Miskay Zelalem, Dinna Yeshitlla, Emmanuel Michael, Emmanuel Adedeji, Daniel Odetoye
 
-**Live tutorial:** _TBD — `https://<username>.github.io/<repo>/crashes.html` once GitHub Pages is enabled (see [Publishing](#publishing) below)._
+**Live tutorial:** https://eadedeji8.github.io/320_Group_Project/crashes.html
 
 ---
 
